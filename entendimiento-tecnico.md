@@ -1,4 +1,4 @@
-[&larr;](readme.payments.md)
+[&larr;](readme.md)
 
 # Entendimiento Técnico <a id="index"></a>
 
